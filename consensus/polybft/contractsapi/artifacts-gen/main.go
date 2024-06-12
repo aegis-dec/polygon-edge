@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"go/format"
 	"log"
-	"os"
 	"path"
+	"path/filepath"
 	"runtime"
 	"strings"
 
@@ -230,8 +230,11 @@ package contractsapi
 
 // getContractName extracts smart contract name from provided path
 func getContractName(path string) string {
-	pathSegments := strings.Split(path, string([]rune{os.PathSeparator}))
-	nameSegment := pathSegments[len(pathSegments)-1]
+	name := filepath.Base(path) // Get the base name of the path
+	return strings.TrimSuffix(name, extension)
 
-	return strings.Split(nameSegment, extension)[0]
+	// pathSegments := strings.Split(path, string([]rune{os.PathSeparator}))
+	// nameSegment := pathSegments[len(pathSegments)-1]
+
+	// return strings.Split(nameSegment, extension)[0]
 }
