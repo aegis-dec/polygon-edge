@@ -3,11 +3,11 @@ package server
 import (
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/command/server/config"
-	"github.com/0xPolygon/polygon-edge/command/server/export"
-	"github.com/0xPolygon/polygon-edge/server"
+	"github.com/aegis-dec/polygon-edge/command"
+	"github.com/aegis-dec/polygon-edge/command/helper"
+	"github.com/aegis-dec/polygon-edge/command/server/config"
+	"github.com/aegis-dec/polygon-edge/command/server/export"
+	"github.com/aegis-dec/polygon-edge/server"
 	"github.com/spf13/cobra"
 )
 

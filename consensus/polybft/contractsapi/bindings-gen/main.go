@@ -13,9 +13,9 @@ import (
 
 	"github.com/umbracle/ethgo/abi"
 
-	gensc "github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi/artifact"
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	gensc "github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi/artifact"
+	"github.com/aegis-dec/polygon-edge/helper/common"
 )
 
 const (
@@ -473,7 +473,7 @@ package contractsapi
 import (
 	"math/big"
 
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/umbracle/ethgo/abi"
 	"github.com/umbracle/ethgo"
 )

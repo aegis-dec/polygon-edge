@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	itrie "github.com/0xPolygon/polygon-edge/state/immutable-trie"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/command"
+	itrie "github.com/aegis-dec/polygon-edge/state/immutable-trie"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/spf13/cobra"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/opt"

@@ -7,8 +7,8 @@ import (
 	"github.com/umbracle/fastrlp"
 	"golang.org/x/crypto/sha3"
 
-	commonHelpers "github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/types"
+	commonHelpers "github.com/aegis-dec/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 // Node represents a node reference

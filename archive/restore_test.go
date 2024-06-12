@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/blockchain"
-	"github.com/0xPolygon/polygon-edge/helper/progress"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/blockchain"
+	"github.com/aegis-dec/polygon-edge/helper/progress"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/stretchr/testify/assert"
 )
 

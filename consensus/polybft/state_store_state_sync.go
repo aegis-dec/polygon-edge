@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/aegis-dec/polygon-edge/helper/common"
 	bolt "go.etcd.io/bbolt"
 )
 

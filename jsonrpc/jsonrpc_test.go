@@ -11,8 +11,8 @@ import (
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/require"
 
-	"github.com/0xPolygon/polygon-edge/helper/tests"
-	"github.com/0xPolygon/polygon-edge/versioning"
+	"github.com/aegis-dec/polygon-edge/helper/tests"
+	"github.com/aegis-dec/polygon-edge/versioning"
 )
 
 func TestHTTPServer(t *testing.T) {

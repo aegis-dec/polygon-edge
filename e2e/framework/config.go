@@ -5,10 +5,10 @@ import (
 	"math/big"
 	"path/filepath"
 
-	"github.com/0xPolygon/polygon-edge/consensus/ibft"
-	"github.com/0xPolygon/polygon-edge/crypto"
-	"github.com/0xPolygon/polygon-edge/types"
-	"github.com/0xPolygon/polygon-edge/validators"
+	"github.com/aegis-dec/polygon-edge/consensus/ibft"
+	"github.com/aegis-dec/polygon-edge/crypto"
+	"github.com/aegis-dec/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/validators"
 )
 
 type ConsensusType int

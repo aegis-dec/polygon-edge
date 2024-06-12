@@ -3,9 +3,9 @@ package polybft
 import (
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/contracts"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/aegis-dec/polygon-edge/contracts"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo"

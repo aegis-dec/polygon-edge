@@ -3,7 +3,7 @@ package polybftsecrets
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/0xPolygon/polygon-edge/command"
+	"github.com/aegis-dec/polygon-edge/command"
 )
 
 var basicParams = &initParams{}

@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/bls"
+	"github.com/aegis-dec/polygon-edge/bls"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/fastrlp"
 )

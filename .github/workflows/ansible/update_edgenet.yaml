@@ -20,7 +20,7 @@
     ## get the latest release
     - name: Get latest release link
       uri:
-        url: https://api.github.com/repos/0xPolygon/polygon-edge/releases/latest
+        url: https://api.github.com/repos/aegis-dec/polygon-edge/releases/latest
         return_content: true
       register: edge_release
 

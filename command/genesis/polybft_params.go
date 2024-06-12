@@ -11,17 +11,17 @@ import (
 
 	"github.com/multiformats/go-multiaddr"
 
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi/artifact"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/validator"
-	"github.com/0xPolygon/polygon-edge/contracts"
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/server"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/chain"
+	"github.com/aegis-dec/polygon-edge/command"
+	"github.com/aegis-dec/polygon-edge/command/helper"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi/artifact"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/validator"
+	"github.com/aegis-dec/polygon-edge/contracts"
+	"github.com/aegis-dec/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/server"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 const (

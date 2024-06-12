@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/helper/common"
 	hcf "github.com/hashicorp/go-hclog"
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/blocktracker"

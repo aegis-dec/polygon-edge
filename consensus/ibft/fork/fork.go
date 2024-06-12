@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/validators"
+	"github.com/aegis-dec/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/validators"
 )
 
 const (

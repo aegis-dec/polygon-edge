@@ -3,8 +3,8 @@ package types
 import (
 	"math/big"
 
-	"github.com/0xPolygon/polygon-edge/forkmanager"
-	"github.com/0xPolygon/polygon-edge/helper/keccak"
+	"github.com/aegis-dec/polygon-edge/forkmanager"
+	"github.com/aegis-dec/polygon-edge/helper/keccak"
 	"github.com/umbracle/fastrlp"
 )
 

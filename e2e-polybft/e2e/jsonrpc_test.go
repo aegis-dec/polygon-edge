@@ -10,11 +10,11 @@ import (
 	"github.com/umbracle/ethgo/jsonrpc"
 	"github.com/umbracle/ethgo/wallet"
 
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/e2e-polybft/framework"
-	"github.com/0xPolygon/polygon-edge/helper/hex"
-	"github.com/0xPolygon/polygon-edge/state"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/aegis-dec/polygon-edge/e2e-polybft/framework"
+	"github.com/aegis-dec/polygon-edge/helper/hex"
+	"github.com/aegis-dec/polygon-edge/state"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 var (

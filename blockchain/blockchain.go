@@ -7,12 +7,12 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/0xPolygon/polygon-edge/blockchain/storage"
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	"github.com/0xPolygon/polygon-edge/state"
-	"github.com/0xPolygon/polygon-edge/types"
-	"github.com/0xPolygon/polygon-edge/types/buildroot"
+	"github.com/aegis-dec/polygon-edge/blockchain/storage"
+	"github.com/aegis-dec/polygon-edge/chain"
+	"github.com/aegis-dec/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/state"
+	"github.com/aegis-dec/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/types/buildroot"
 
 	"github.com/hashicorp/go-hclog"
 	lru "github.com/hashicorp/golang-lru"

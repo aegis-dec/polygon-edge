@@ -7,16 +7,16 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/umbracle/ethgo"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/bridge/common"
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/command/polybftsecrets"
-	rootHelper "github.com/0xPolygon/polygon-edge/command/rootchain/helper"
-	sidechainHelper "github.com/0xPolygon/polygon-edge/command/sidechain"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	"github.com/0xPolygon/polygon-edge/contracts"
-	"github.com/0xPolygon/polygon-edge/txrelayer"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/command"
+	"github.com/aegis-dec/polygon-edge/command/bridge/common"
+	"github.com/aegis-dec/polygon-edge/command/helper"
+	"github.com/aegis-dec/polygon-edge/command/polybftsecrets"
+	rootHelper "github.com/aegis-dec/polygon-edge/command/rootchain/helper"
+	sidechainHelper "github.com/aegis-dec/polygon-edge/command/sidechain"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	"github.com/aegis-dec/polygon-edge/contracts"
+	"github.com/aegis-dec/polygon-edge/txrelayer"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 var params withdrawParams

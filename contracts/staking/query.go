@@ -6,9 +6,9 @@ import (
 
 	"github.com/umbracle/ethgo"
 
-	"github.com/0xPolygon/polygon-edge/contracts/abis"
-	"github.com/0xPolygon/polygon-edge/state/runtime"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/contracts/abis"
+	"github.com/aegis-dec/polygon-edge/state/runtime"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/umbracle/ethgo/abi"
 )
 

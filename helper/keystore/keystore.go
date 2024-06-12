@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/helper/common"
 )
 
 type createFn func() ([]byte, error)

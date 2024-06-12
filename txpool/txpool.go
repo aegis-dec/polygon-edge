@@ -13,14 +13,14 @@ import (
 	"github.com/libp2p/go-libp2p/core/peer"
 	"google.golang.org/grpc"
 
-	"github.com/0xPolygon/polygon-edge/blockchain"
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/forkmanager"
-	"github.com/0xPolygon/polygon-edge/network"
-	"github.com/0xPolygon/polygon-edge/state"
-	"github.com/0xPolygon/polygon-edge/state/runtime"
-	"github.com/0xPolygon/polygon-edge/txpool/proto"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/blockchain"
+	"github.com/aegis-dec/polygon-edge/chain"
+	"github.com/aegis-dec/polygon-edge/forkmanager"
+	"github.com/aegis-dec/polygon-edge/network"
+	"github.com/aegis-dec/polygon-edge/state"
+	"github.com/aegis-dec/polygon-edge/state/runtime"
+	"github.com/aegis-dec/polygon-edge/txpool/proto"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 const (

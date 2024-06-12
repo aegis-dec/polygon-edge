@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
+	"github.com/aegis-dec/polygon-edge/command/helper"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft"
 )
 
 const (

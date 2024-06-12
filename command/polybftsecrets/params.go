@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/wallet"
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/secrets/helper"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/command"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/wallet"
+	"github.com/aegis-dec/polygon-edge/secrets"
+	"github.com/aegis-dec/polygon-edge/secrets/helper"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/spf13/cobra"
 )
 

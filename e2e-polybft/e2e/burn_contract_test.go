@@ -7,9 +7,9 @@ import (
 	"github.com/umbracle/ethgo"
 	"github.com/umbracle/ethgo/wallet"
 
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
-	"github.com/0xPolygon/polygon-edge/e2e-polybft/framework"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft"
+	"github.com/aegis-dec/polygon-edge/e2e-polybft/framework"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 func TestE2E_BurnContract_Deployed(t *testing.T) {

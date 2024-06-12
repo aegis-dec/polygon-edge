@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/helper/common"
 )
 
 // Dial dials an IPC path

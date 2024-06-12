@@ -1,8 +1,8 @@
 package hook
 
 import (
-	"github.com/0xPolygon/polygon-edge/state"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/state"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 type ShouldWriteTransactionsFunc func(uint64) bool

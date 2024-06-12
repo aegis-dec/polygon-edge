@@ -6,7 +6,7 @@ import (
 
 	bn256 "github.com/umbracle/go-eth-bn256"
 
-	"github.com/0xPolygon/polygon-edge/helper/hex"
+	"github.com/aegis-dec/polygon-edge/helper/hex"
 )
 
 // PrivateKey holds private key for bls implementation

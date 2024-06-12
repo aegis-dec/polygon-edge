@@ -8,15 +8,15 @@ import (
 	libp2pCrypto "github.com/libp2p/go-libp2p/core/crypto"
 	"github.com/libp2p/go-libp2p/core/peer"
 
-	"github.com/0xPolygon/polygon-edge/crypto"
-	"github.com/0xPolygon/polygon-edge/helper/hex"
-	"github.com/0xPolygon/polygon-edge/network"
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/secrets/awsssm"
-	"github.com/0xPolygon/polygon-edge/secrets/gcpssm"
-	"github.com/0xPolygon/polygon-edge/secrets/hashicorpvault"
-	"github.com/0xPolygon/polygon-edge/secrets/local"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/crypto"
+	"github.com/aegis-dec/polygon-edge/helper/hex"
+	"github.com/aegis-dec/polygon-edge/network"
+	"github.com/aegis-dec/polygon-edge/secrets"
+	"github.com/aegis-dec/polygon-edge/secrets/awsssm"
+	"github.com/aegis-dec/polygon-edge/secrets/gcpssm"
+	"github.com/aegis-dec/polygon-edge/secrets/hashicorpvault"
+	"github.com/aegis-dec/polygon-edge/secrets/local"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 // SetupLocalSecretsManager is a helper method for boilerplate local secrets manager setup

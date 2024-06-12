@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	"github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/helper/common"
-	txpoolProto "github.com/0xPolygon/polygon-edge/txpool/proto"
+	"github.com/aegis-dec/polygon-edge/command"
+	"github.com/aegis-dec/polygon-edge/command/helper"
+	"github.com/aegis-dec/polygon-edge/helper/common"
+	txpoolProto "github.com/aegis-dec/polygon-edge/txpool/proto"
 	"github.com/spf13/cobra"
 )
 

@@ -3,9 +3,9 @@ package precompiled
 import (
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/bls"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/signer"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/bls"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/signer"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo/abi"

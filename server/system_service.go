@@ -6,10 +6,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/0xPolygon/polygon-edge/blockchain"
-	"github.com/0xPolygon/polygon-edge/network/common"
-	"github.com/0xPolygon/polygon-edge/server/proto"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/blockchain"
+	"github.com/aegis-dec/polygon-edge/network/common"
+	"github.com/aegis-dec/polygon-edge/server/proto"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/libp2p/go-libp2p/core/peer"
 	empty "google.golang.org/protobuf/types/known/emptypb"
 )

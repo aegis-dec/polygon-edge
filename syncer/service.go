@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
-	"github.com/0xPolygon/polygon-edge/network/grpc"
-	"github.com/0xPolygon/polygon-edge/syncer/proto"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/network/grpc"
+	"github.com/aegis-dec/polygon-edge/syncer/proto"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/armon/go-metrics"
 	"github.com/golang/protobuf/ptypes/empty"
 )

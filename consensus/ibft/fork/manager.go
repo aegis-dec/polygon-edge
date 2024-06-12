@@ -3,14 +3,14 @@ package fork
 import (
 	"errors"
 
-	"github.com/0xPolygon/polygon-edge/consensus/ibft/hook"
-	"github.com/0xPolygon/polygon-edge/consensus/ibft/signer"
-	"github.com/0xPolygon/polygon-edge/secrets"
-	"github.com/0xPolygon/polygon-edge/state"
-	"github.com/0xPolygon/polygon-edge/types"
-	"github.com/0xPolygon/polygon-edge/validators"
-	"github.com/0xPolygon/polygon-edge/validators/store"
-	"github.com/0xPolygon/polygon-edge/validators/store/contract"
+	"github.com/aegis-dec/polygon-edge/consensus/ibft/hook"
+	"github.com/aegis-dec/polygon-edge/consensus/ibft/signer"
+	"github.com/aegis-dec/polygon-edge/secrets"
+	"github.com/aegis-dec/polygon-edge/state"
+	"github.com/aegis-dec/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/validators"
+	"github.com/aegis-dec/polygon-edge/validators/store"
+	"github.com/aegis-dec/polygon-edge/validators/store/contract"
 	"github.com/hashicorp/go-hclog"
 )
 

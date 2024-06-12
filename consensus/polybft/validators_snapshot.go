@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/0xPolygon/polygon-edge/blockchain"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/validator"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/blockchain"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/validator"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/hashicorp/go-hclog"
 	bolt "go.etcd.io/bbolt"
 )

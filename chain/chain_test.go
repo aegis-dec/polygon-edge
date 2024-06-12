@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 var emptyAddr types.Address

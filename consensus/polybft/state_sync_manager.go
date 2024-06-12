@@ -16,16 +16,16 @@ import (
 	bolt "go.etcd.io/bbolt"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/0xPolygon/polygon-edge/bls"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/bitmap"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/contractsapi"
-	polybftProto "github.com/0xPolygon/polygon-edge/consensus/polybft/proto"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/signer"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/validator"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/wallet"
-	"github.com/0xPolygon/polygon-edge/contracts"
-	"github.com/0xPolygon/polygon-edge/tracker"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/bls"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/bitmap"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/contractsapi"
+	polybftProto "github.com/aegis-dec/polygon-edge/consensus/polybft/proto"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/signer"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/validator"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/wallet"
+	"github.com/aegis-dec/polygon-edge/contracts"
+	"github.com/aegis-dec/polygon-edge/tracker"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 type Runtime interface {

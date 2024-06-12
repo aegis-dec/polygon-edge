@@ -6,19 +6,19 @@
 
 ## Pre-built releases
 
-To access the pre-built releases, visit the [<ins>GitHub releases page</ins>](https://github.com/0xPolygon/polygon-edge/releases). 
+To access the pre-built releases, visit the [<ins>GitHub releases page</ins>](https://github.com/aegis-dec/polygon-edge/releases). 
 The client provides cross-compiled AMD64/ARM64 binaries for Darwin and Linux.
 
 !!! info "Latest release: 1.3.0"
 
-    **The latest stable test release is [<ins>v1.3.0</ins>](https://github.com/0xPolygon/polygon-edge/releases/tag/v1.3.0).**
+    **The latest stable test release is [<ins>v1.3.0</ins>](https://github.com/aegis-dec/polygon-edge/releases/tag/v1.3.0).**
 
 ## Docker image
 
 To use Docker, you will need to have it installed on your system. If you haven't already installed Docker, you can follow the instructions on the
 [<ins>official Docker website</ins>](https://www.docker.com/) for your operating system.
 
-You can access the official Polygon Edge Docker images hosted under the [<ins>0xPolygon registry</ins>](https://hub.docker.com/r/0xpolygon/polygon-edge) using the following command:
+You can access the official Polygon Edge Docker images hosted under the [<ins>0xPolygon registry</ins>](https://hub.docker.com/r/aegis-dec/polygon-edge) using the following command:
 
   ```bash
   docker pull 0xpolygon/polygon-edge:latest
@@ -35,7 +35,7 @@ You can access the official Polygon Edge Docker images hosted under the [<ins>0x
 Use the following commands to clone the Polygon Edge repository and build from source:
 
   ```bash
-  git clone https://github.com/0xPolygon/polygon-edge.git
+  git clone https://github.com/aegis-dec/polygon-edge.git
   cd polygon-edge/
   go build -o polygon-edge .
   ```

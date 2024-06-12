@@ -13,16 +13,16 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/0xPolygon/polygon-edge/command"
-	bridgeCommon "github.com/0xPolygon/polygon-edge/command/bridge/common"
-	"github.com/0xPolygon/polygon-edge/command/genesis"
-	cmdHelper "github.com/0xPolygon/polygon-edge/command/helper"
-	"github.com/0xPolygon/polygon-edge/command/polybftsecrets"
-	rootHelper "github.com/0xPolygon/polygon-edge/command/rootchain/helper"
-	"github.com/0xPolygon/polygon-edge/command/rootchain/server"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft"
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/wallet"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/command"
+	bridgeCommon "github.com/aegis-dec/polygon-edge/command/bridge/common"
+	"github.com/aegis-dec/polygon-edge/command/genesis"
+	cmdHelper "github.com/aegis-dec/polygon-edge/command/helper"
+	"github.com/aegis-dec/polygon-edge/command/polybftsecrets"
+	rootHelper "github.com/aegis-dec/polygon-edge/command/rootchain/helper"
+	"github.com/aegis-dec/polygon-edge/command/rootchain/server"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/wallet"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 type TestBridge struct {

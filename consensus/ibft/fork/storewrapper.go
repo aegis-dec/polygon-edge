@@ -5,11 +5,11 @@ import (
 	"errors"
 	"path/filepath"
 
-	"github.com/0xPolygon/polygon-edge/consensus/ibft/signer"
-	"github.com/0xPolygon/polygon-edge/validators"
-	"github.com/0xPolygon/polygon-edge/validators/store"
-	"github.com/0xPolygon/polygon-edge/validators/store/contract"
-	"github.com/0xPolygon/polygon-edge/validators/store/snapshot"
+	"github.com/aegis-dec/polygon-edge/consensus/ibft/signer"
+	"github.com/aegis-dec/polygon-edge/validators"
+	"github.com/aegis-dec/polygon-edge/validators/store"
+	"github.com/aegis-dec/polygon-edge/validators/store/contract"
+	"github.com/aegis-dec/polygon-edge/validators/store/snapshot"
 	"github.com/hashicorp/go-hclog"
 )
 

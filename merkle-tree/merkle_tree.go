@@ -8,8 +8,8 @@ import (
 	"hash"
 	"math"
 
-	"github.com/0xPolygon/polygon-edge/crypto"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/crypto"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 // A Merkle tree example:

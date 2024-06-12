@@ -7,12 +7,12 @@ import (
 	"path"
 	"testing"
 
-	"github.com/0xPolygon/polygon-edge/crypto"
-	testHelper "github.com/0xPolygon/polygon-edge/helper/tests"
-	"github.com/0xPolygon/polygon-edge/types"
-	"github.com/0xPolygon/polygon-edge/validators"
-	"github.com/0xPolygon/polygon-edge/validators/store"
-	"github.com/0xPolygon/polygon-edge/validators/store/snapshot"
+	"github.com/aegis-dec/polygon-edge/crypto"
+	testHelper "github.com/aegis-dec/polygon-edge/helper/tests"
+	"github.com/aegis-dec/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/validators"
+	"github.com/aegis-dec/polygon-edge/validators/store"
+	"github.com/aegis-dec/polygon-edge/validators/store/snapshot"
 	"github.com/stretchr/testify/assert"
 )
 

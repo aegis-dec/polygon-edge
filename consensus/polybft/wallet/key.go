@@ -7,9 +7,9 @@ import (
 	"github.com/umbracle/ethgo"
 	protobuf "google.golang.org/protobuf/proto"
 
-	"github.com/0xPolygon/polygon-edge/consensus/polybft/signer"
-	"github.com/0xPolygon/polygon-edge/crypto"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/consensus/polybft/signer"
+	"github.com/aegis-dec/polygon-edge/crypto"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 type Key struct {

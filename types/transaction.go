@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/0xPolygon/polygon-edge/helper/common"
+	"github.com/aegis-dec/polygon-edge/helper/common"
 )
 
 const (

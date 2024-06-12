@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/types"
 	"github.com/hashicorp/go-hclog"
 	"github.com/stretchr/testify/require"
 	"github.com/umbracle/ethgo"

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	testHelper "github.com/0xPolygon/polygon-edge/helper/tests"
+	testHelper "github.com/aegis-dec/polygon-edge/helper/tests"
 	"github.com/stretchr/testify/assert"
 )
 

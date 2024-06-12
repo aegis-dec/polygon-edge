@@ -5,9 +5,9 @@ import (
 
 	"math"
 
-	"github.com/0xPolygon/polygon-edge/chain"
-	"github.com/0xPolygon/polygon-edge/state/runtime"
-	"github.com/0xPolygon/polygon-edge/types"
+	"github.com/aegis-dec/polygon-edge/chain"
+	"github.com/aegis-dec/polygon-edge/state/runtime"
+	"github.com/aegis-dec/polygon-edge/types"
 )
 
 type modExp struct {
