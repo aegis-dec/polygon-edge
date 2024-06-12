@@ -4,4 +4,4 @@
 	shallow = true
 [submodule "core-contracts"]
 	path = core-contracts
-	url = https://github.com/0xPolygon/core-contracts
+	url = https://github.com/aegis-dec/core-contracts
